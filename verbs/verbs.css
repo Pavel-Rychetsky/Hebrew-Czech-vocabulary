@@ -1,0 +1,28 @@
+@font-face{
+    font-family: "SBL BibLit";
+    src: url("https://www.sbl-site.org/Fonts/SBL_BLit.ttf") format("truetype");
+}
+body {
+    font-family: "SBL BibLit";
+}
+td.hebrew {
+    font-size:36px;
+}
+table {
+    font-size:20px;
+	border-collapse: collapse;
+}
+tr.sl td {
+	border-bottom: 1px solid black;
+}
+tr.dl th {
+	border-bottom: 3px double black;
+}
+td, th {
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	padding: 0px 10px;
+}
+table {
+	border: 1px solid black;
+}
