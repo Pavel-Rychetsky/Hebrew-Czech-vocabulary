@@ -1,0 +1,104 @@
+אָמַר	אמר	Q	Pf 3ms	řekl	
+אָמְרָה‎	אמר	Q	Pf 3fs	řekla	
+אָמַרְתָּ‎	אמר	Q	Pf 2ms	řekl jsi	
+אָמַרְתְּ‎	אמר	Q	Pf 2fs	řekla jsi	
+אָמַרְתִּי‎	אמר	Q	Pf 1s	řekl(a) jsem	
+אָמְרוּ‎	אמר	Q	Pf 3p	řekli(-y)	
+אֲמַרְתֶּם‎	אמר	Q	Pf 2mp	řekli jste	
+אֲמַרְתֶּן‎	אמר	Q	Pf 2fp	řekly jste	
+אָמַרְנוּ‎	אמר	Q	Pf 1p	řekli jsme	
+יֹאמַר‎	אמר	Q	Impf 3ms	bude říkat (muž)	
+תֹּאמַר‎	אמר	Q	Impf 3fs	bude říkat (žena)	
+תֹּאמַר‎	אמר	Q	Impf 2ms	budeš říkat (ty muži)	
+תֹּאמְרִי‎	אמר	Q	Impf 2fs	budeš říkat (ženo)	
+אֹמַר	אמר	Q	Impf 1s	budu říkat	
+יֹאמְרוּ‎	אמר	Q	Impf 3mp	budou říkat	
+תֹּאמַרְנָה‎	אמר	Q	Impf 3fp	budou říkat (ženy)	
+תֹּאמְרוּ‎	אמר	Q	Impf 2mp	budete říkat (vy muži)	
+תֹּאמַרְנָה‎	אמר	Q	Impf 2fp	budete říkat (vy ženy)	
+נֹאמַר‎	אמר	Q	Impf 1p	budeme říkat, řekneme	
+אוֹמֵר‎	אמר	Q	Ptc ms	říkající (muž)	
+אוֹמֶרֶת‎	אמר	Q	Ptc fs	říkající (žena)	
+אוֹמְרִים‎	אמר	Q	Ptc mp	říkající (muži)	
+אוֹמְרוֹת‎	אמר	Q	Ptc fp	říkající (ženy)	
+אָמֹר	אמר	Q	Inf abs	říkat	
+אֱמֹר	אמר	Q	Inf con	říkat	
+לֵאמֹר	אמר	Q	Inf abs ל	říkat	
+אֱמֹר‎	אמר	Q	Imp ms	říkej!, řekni! (muži)	
+אִמְרִי‎	אמר	Q	Imp fs	řekni! (ženo)	
+אִמְרוּ‎	אמר	Q	Imp mp	řekněte! (muži)	
+אֱמֹרְנָה‎	אמר	Q	Imp fp	říkejte!, řekněte! (ženy)	
+אֲמִירָה	אמר	Q	verbal noun	říkání</br><small>(podst. jméno slovesné)</small>	
+אָמוּר‎	אמר	Q	Ptc pas ms	řečený</br><small>(příčestí trpné)</small>	
+אֱמוּרָה	אמר	Q	Ptc pas fs	řečená</br><small>(příčestí trpné)</small>	
+אֱמוּרִים	אמר	Q	Ptc pas mp	řečení (příčestí trpné)	
+אֱמוּרוֹת	אמר	Q	Ptc pas fp	řečené</br><small>(příčestí trpné)</small>	
+קָטַל	קטל	Q	Pf 3ms	zabil	
+קָטְלָה	קטל	Q	Pf 3fs	zabila	
+קָטַלְתָּ	קטל	Q	Pf 2ms	zabil jsi	
+קָטַלְתְּ	קטל	Q	Pf 2fs	zabila jsi	
+קָטַלְתִּי	קטל	Q	Pf 1s	zabil(a) jsem	
+קָטְלוּ	קטל	Q	Pf 3p	zabili(-y)	
+קְטַלְתֶּם	קטל	Q	Pf 2mp	zabili jste	
+קְטַלְתֶּן	קטל	Q	Pf 2fp	zabily jste	
+קָטַלְנוּ	קטל	Q	Pf 1p	zabili(-y) jsme	
+יִקְטֹל	קטל	Q	Impf 3ms	bude zabíjet (muž)	
+תִּקְטֹל	קטל	Q	Impf 3fs	bude zabíjet&nbsp;(žena)	
+תִּקְטֹל	קטל	Q	Impf 2ms	budeš zabíjet&nbsp;(ty muži)	
+תִּקְטְלִי	קטל	Q	Impf 2fs	budeš zabíjet (ženo)	
+אֶקְטֹל	קטל	Q	Impf 1s	budu zabíjet	
+יִקְטְלוּ	קטל	Q	Impf 3mp	budete zabíjet (muži)	
+תִּקְטֹלְנָה	קטל	Q	Impf 3fp	budou zabíjet&nbsp;(ženy)	
+תִּקְטְלוּ	קטל	Q	Impf 2mp	budete zabíjet (muži)	
+תִּקְטֹלְנָה	קטל	Q	Impf 2fp	budete zabíjet&nbsp;(vy ženy)	
+נִקְטֹל	קטל	Q	Impf 1p	budeme zabíjet	
+אֶקְטְלָה	קטל	Q	Coh s	ať zabiji	
+נִקְטְלָה	קטל	Q	Coh p	ať zabijeme, zabijme	
+קְטֹל	קטל	Q	Imp ms	zabij! (ty muži)	
+קִטְלִי	קטל	Q	Imp fs	zabij! (ženo)	
+קִטְלוּ	קטל	Q	Imp mp	zabijte! (vy muži)	
+קְטֹלְנָה	קטל	Q	Imp fp	zabijte! (vy ženy)	
+יִקְטֹל	קטל	Q	Jus ms	ať zabije	
+קָטוֹל	קטל	Q	Inf abs	zabít	
+קְטֹל	קטל	Q	Inf con	zabíjet	
+לִקְטֹל	קטל	Q	Inf abs ל	zabíjet	
+קוֹטֵל	קטל	Q	Ptc ms	zabíjející (muž)	
+קוֹטֶלֶת	קטל	Q	Ptc fs	zabíjející (žena)	
+קוֹטְלִים	קטל	Q	Ptc mp	zabíjející (muži)	
+קוֹטְלוֹת	קטל	Q	Ptc fp	zabíjející (ženy)	
+קָטוּל	קטל	Q	Ptc pas ms	zabitý</br><small>(příčestí trpné)</small>	
+קְטוּלָה	קטל	Q	Ptc pas fs	zabitá (příčestí trpné)	
+קְטוּלִים	קטל	Q	Ptc pas mp	zabití (muži) (příčestí trpné)	
+קְטוּלוֹת	קטל	Q	Ptc pas fp	zabité</br><small>(příčestí trpné)</small>	
+נִקְטַל	קטל	Ni	Pf 3ms	byl zabit	
+נִקְטְלָה	קטל	Ni	Pf 3fs	byla zabita	
+נִקְטַלְתָּ	קטל	Ni	Pf 2ms	byl jsi zabit	
+נִקְטַלְתְּ	קטל	Ni	Pf 2fs	byla jsi zabita	
+נִקְטַלְתִּי	קטל	Ni	Pf 1s	byl jsem zabit	
+נִקְטְלוּ	קטל	Ni	Pf 3p	byli(-y) zabiti(-y)	
+נִקְטַלְתֶּם	קטל	Ni	Pf 2mp	byli jste zabiti	
+נִקְטַלְתֶּן	קטל	Ni	Pf 2fp	byly jste zabity	
+נִקְטַלְנוּ	קטל	Ni	Pf 1p	byli(-y) jsme zabiti(-y)	
+יִקָּטֵל	קטל	Ni	Impf 3ms	bude zabit	
+תִּקָּטֵל	קטל	Ni	Impf 3fs	bude zabita	
+תִּקָּטֵל	קטל	Ni	Impf 2ms	budeš zabit	
+תִּקָּטְלִי	קטל	Ni	Impf 2fs	budeš zabita	
+אֶקָּטֵל	קטל	Ni	Impf 1s	budu zabit	
+יִקָּטְלוּ	קטל	Ni	Impf 3mp	budou zabíjet (muži)	
+תִּקָּטַלְנָה	קטל	Ni	Impf 3fp	budou zabity	
+תִּקָּטְלוּ	קטל	Ni	Impf 2mp	budete zabiti	
+תִּקָּטַלְנָה	קטל	Ni	Impf 2fp	budete zabíty	
+נִקָּטֵל	קטל	Ni	Impf 1p	budeme zabiti(-y)	
+אִקָּטְלָה	קטל	Ni	Coh s	ať jsem zabit(a)	
+נִקָּטְלָה	קטל	Ni	Coh p	ať jsme zabiti(-y)	
+הִקָּטֵל	קטל	Ni	Imp ms	buď zabit!	
+הִקָּטְלִי‏	קטל	Ni	Imp fs	buď zabita!	
+הִקָּטְלוּ	קטל	Ni	Imp mp	buďte zabiti!	
+הִקָּטַלְנָה‏	קטל	Ni	Imp fp	buďte zabity!	
+יִקָּטֵל	קטל	Ni	Jus ms	ať je zabit	
+הִקָּטֹל, יִקְטֹּל	קטל	Ni	Inf abs	být zabíjen	
+הִקַּטֵל	קטל	Ni	Inf con	být zabíjen, zabíjení	
+נִקְטָל	קטל	Ni	Ptc ms	zabit(ý)	
+נִקְטָלָת	קטל	Ni	Ptc fs	zabita(-á)	
+נִקְטָלִים	קטל	Ni	Ptc mp	zabiti(-í)	
+נִקְטָלוֹת	קטל	Ni	Ptc fp	zabity(-é)	
